@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**bluesky-nlp** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**bluesky-nlp** is available [on PyPI](https://pypi.org/project/bluesky-nlp/). Just run
 
 ```bash
-pip install my-package
+pip install bluesky-nlp
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **bluesky-nlp** from source, first clone [the repository](https://github.com/kyleclo/bluesky-nlp):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/kyleclo/bluesky-nlp.git
+cd bluesky-nlp
 ```
 
 Then run
